@@ -5,8 +5,12 @@ p{
     margin: 10px 10px 10px 10px ; 
     padding: 10px 10px 10px 10px;
 }
-.p1{
+/* p{
      border: 10px  solid red;
 
-}
+} */
+.Fuck{
 
+    color: red;
+    cursor: url(https://cdn.jsdelivr.net/npm/twemoji@11.0.1/2/svg/1f595.svg),auto;
+}
